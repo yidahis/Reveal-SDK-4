@@ -5,7 +5,8 @@
 
 #Reveal
 
-[工具下载地址](http://download.csdn.net/detail/tx874828503/9831082)：
+工具下载地址
+链接: https://pan.baidu.com/s/1Yi1KMlfMCB6wozcmhfbkXw 密码: 269r
 
 
 #Installation
